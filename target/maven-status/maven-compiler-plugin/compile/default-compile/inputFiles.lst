@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\distributed-search-worker-node\src\main\java\search\SearchWorker.java
+C:\Users\user\Desktop\distributed-search-worker-node\src\main\java\Application.java
+C:\Users\user\Desktop\distributed-search-worker-node\src\main\java\cluster\management\OnElectionCallback.java
+C:\Users\user\Desktop\distributed-search-worker-node\src\main\java\model\Task.java
+C:\Users\user\Desktop\distributed-search-worker-node\src\main\java\cluster\management\LeaderElection.java
+C:\Users\user\Desktop\distributed-search-worker-node\src\main\java\model\DocumentData.java
+C:\Users\user\Desktop\distributed-search-worker-node\src\main\java\cluster\management\ServiceRegistry.java
+C:\Users\user\Desktop\distributed-search-worker-node\src\main\java\networking\WebServer.java
+C:\Users\user\Desktop\distributed-search-worker-node\src\main\java\networking\OnRequestCallback.java
+C:\Users\user\Desktop\distributed-search-worker-node\src\main\java\OnElectionAction.java
+C:\Users\user\Desktop\distributed-search-worker-node\src\main\java\model\Result.java
+C:\Users\user\Desktop\distributed-search-worker-node\src\main\java\model\SerializationUtils.java
+C:\Users\user\Desktop\distributed-search-worker-node\src\main\java\search\TFIDF.java

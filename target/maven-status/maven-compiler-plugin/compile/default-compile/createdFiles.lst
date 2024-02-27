@@ -1,0 +1,15 @@
+model\Task.class
+cluster\management\LeaderElection.class
+Application$1.class
+search\TFIDF.class
+cluster\management\ServiceRegistry.class
+model\DocumentData.class
+model\SerializationUtils.class
+model\Result.class
+search\SearchWorker.class
+networking\WebServer.class
+networking\OnRequestCallback.class
+cluster\management\LeaderElection$1.class
+cluster\management\OnElectionCallback.class
+OnElectionAction.class
+Application.class
